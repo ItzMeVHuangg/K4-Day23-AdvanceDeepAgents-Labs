@@ -1,0 +1,202 @@
+[
+  {
+    "n": 1,
+    "id": "1809.01999",
+    "url": "https://arxiv.org/abs/1809.01999",
+    "title": "Recurrent World Models Facilitate Policy Evolution",
+    "date": "2018-09-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "",
+    "url": "https://dl.acm.org/doi/10.1145/122344.122377",
+    "title": "Dyna, an integrated architecture for learning, planning, and reactive execution",
+    "date": "1991-07-01",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2605.00080",
+    "url": "https://arxiv.org/abs/2605.00080",
+    "title": "World Model for Robot Learning: A Comprehensive Survey",
+    "date": "2026-04-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2402.15391",
+    "url": "https://arxiv.org/abs/2402.15391",
+    "title": "Genie: Generative Interactive Environments",
+    "date": "2024-02-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2405.12399",
+    "url": "https://arxiv.org/abs/2405.12399",
+    "title": "Diffusion for World Modeling: Visual Details Matter in Atari",
+    "date": "2024-05-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2209.00588",
+    "url": "https://arxiv.org/abs/2209.00588",
+    "title": "Transformers are Sample-Efficient World Models",
+    "date": "2023-03-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2305.14992",
+    "url": "https://arxiv.org/abs/2305.14992",
+    "title": "Reasoning via Planning (RAP)",
+    "date": "2023-05-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2410.19923",
+    "url": "https://arxiv.org/abs/2410.19923",
+    "title": "Language Agents Meet Causality – Bridging LLMs and Causal World Models",
+    "date": "2024-10-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2509.02722",
+    "url": "https://arxiv.org/abs/2509.02722",
+    "title": "Planning with Reasoning using Vision Language World Model",
+    "date": "2025-09-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2606.15032",
+    "url": "https://arxiv.org/abs/2606.15032",
+    "title": "How Should World Models Be Evaluated for Embodied Decision-Making? A Decision-Making-Centric Position",
+    "date": "2026-06-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "",
+    "url": "https://world-models.io/reports/state-of-world-models-2026/state-of-world-models-2026-v1.0.pdf",
+    "title": "State of World Models 2026: Taxonomy, Benchmarks and Open Challenges",
+    "date": "2026-01-01",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "",
+    "url": "https://iris.cnr.it/bitstream/20.500.14243/521758/1/1-s2.0-S0301051123002612-main.pdf",
+    "title": "Active inference as a theory of sentient behavior",
+    "date": "2023-01-01",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0893608021003610",
+    "title": "World Model learning and inference",
+    "date": "2021-01-01",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "",
+    "url": "https://arxiv.org/pdf/2006.16712",
+    "title": "Model-based Reinforcement Learning: A Survey",
+    "date": "2022-03-31",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "title": "Video generation models as world simulators",
+    "date": "2024-02-15",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2603.21546",
+    "url": "https://arxiv.org/abs/2603.21546",
+    "title": "What Do World Models Learn in RL? Probing Latent Representations in Learned Environment Simulators",
+    "date": "2026-03-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2406.19320",
+    "url": "https://arxiv.org/abs/2406.19320",
+    "title": "Efficient World Models with Context-Aware Tokenization",
+    "date": "2024-06-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "",
+    "url": "https://deepmind.google/research/publications/60474/",
+    "title": "Genie: Generative Interactive Environments — Google DeepMind",
+    "date": "2024-02-23",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "2609.05588",
+    "url": "https://huggingface.co/papers/2609.05588",
+    "title": "GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation",
+    "date": "2026-09-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2410.12409",
+    "url": "https://huggingface.co/papers/2410.12409",
+    "title": "Revealing the Barriers of Language Agents in Planning",
+    "date": "2024-10-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2606.24597",
+    "url": "https://huggingface.co/papers/2606.24597",
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "date": "2026-06-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "2407.00114",
+    "url": "https://huggingface.co/papers/2407.00114",
+    "title": "OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents",
+    "date": "2024-06-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2504.16680",
+    "url": "https://arxiv.org/abs/2504.16680",
+    "title": "Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement Learning Work on Real Robots",
+    "date": "2025-04-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "2411.10171",
+    "url": "https://arxiv.org/abs/2411.10171",
+    "title": "Imagine-2-Drive: Leveraging High-Fidelity World Models via Multi-Modal Diffusion Policies",
+    "date": "2024-11-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "2501.11260",
+    "url": "https://arxiv.org/abs/2501.11260",
+    "title": "A Survey of World Models for Autonomous Driving",
+    "date": "2025-01-20",
+    "source": "arxiv"
+  }
+]

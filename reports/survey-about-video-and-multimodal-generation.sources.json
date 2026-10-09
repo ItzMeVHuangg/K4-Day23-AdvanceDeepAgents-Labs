@@ -1,0 +1,226 @@
+[
+  {
+    "n": 1,
+    "id": "2310.10647",
+    "url": "https://huggingface.co/papers/2310.10647",
+    "title": "A Survey on Video Diffusion Models",
+    "date": "2023-10-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "",
+    "url": "https://arxiv.org/html/2405.10674v1",
+    "title": "From Sora What We Can See: A Survey of Text-to-Video Generation",
+    "date": "2024-05-20",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2510.04999",
+    "url": "https://arxiv.org/abs/2510.04999",
+    "title": "General: Bridging Text and Video Generation: A Survey",
+    "date": "2025-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2609.31050",
+    "url": "https://arxiv.org/abs/2609.31050",
+    "title": "Where Compute Matters: Heterogeneous Attention for Efficient Video Diffusion",
+    "date": "2026-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2608.24293",
+    "url": "https://arxiv.org/abs/2608.24293",
+    "title": "Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation",
+    "date": "2026-08-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2501.00103",
+    "url": "https://huggingface.co/papers/2501.00103",
+    "title": "LTX-Video: Realtime Video Latent Diffusion",
+    "date": "2024-12-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2503.09642",
+    "url": "https://huggingface.co/papers/2503.09642",
+    "title": "Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k",
+    "date": "2025-03-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2408.06072",
+    "url": "https://huggingface.co/papers/2408.06072",
+    "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+    "date": "2024-08-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2410.13720",
+    "url": "https://huggingface.co/papers/2410.13720",
+    "title": "Movie Gen: A Cast of Media Foundation Models",
+    "date": "2024-10-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026W/VGBE/papers/Safavigerdini_Generative_AI_Video_Evaluation_Survey_of_Metrics_Benchmarks_and_Trustworthiness_CVPRW_2026_paper.pdf",
+    "title": "Generative AI Video Evaluation: Survey of Metrics, Benchmarks, and Trustworthiness",
+    "date": "2026-06-01",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2410.19884",
+    "url": "https://arxiv.org/abs/2410.19884",
+    "title": "A Survey of AI-Generated Video Evaluation",
+    "date": "2026-03-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2610.00812",
+    "url": "https://arxiv.org/abs/2610.00812",
+    "title": "Video Generation Models: A Survey of Post-Training and Alignment",
+    "date": "2026-09-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2605.04045",
+    "url": "https://arxiv.org/abs/2605.04045",
+    "title": "Audio-Visual Intelligence in Large Foundation Models",
+    "date": "2026-05-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2412.14169",
+    "url": "https://huggingface.co/papers/2412.14169",
+    "title": "Autoregressive Video Generation without Vector Quantization",
+    "date": "2024-12-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2603.28489",
+    "url": "https://arxiv.org/abs/2603.28489",
+    "title": "Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms",
+    "date": "2026-07-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2601.05966",
+    "url": "https://huggingface.co/papers/2601.05966",
+    "title": "VideoAR: Autoregressive Video Generation via Next-Scale Prediction",
+    "date": "2026-01-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2410.20502",
+    "url": "https://arxiv.org/abs/2410.20502",
+    "title": "ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation",
+    "date": "2024-10-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2412.00833",
+    "url": "https://huggingface.co/papers/2412.00833",
+    "title": "AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment",
+    "date": "2024-12-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2405.17871",
+    "url": "https://huggingface.co/papers/2405.17871",
+    "title": "Seeing the Image: Prioritizing Visual Correlation by Contrastive Alignment",
+    "date": "2024-05-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2604.15911",
+    "url": "https://arxiv.org/abs/2604.15911",
+    "title": "Efficient Video Diffusion Models: Advancements and Challenges",
+    "date": "2026-04-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2408.12590",
+    "url": "https://huggingface.co/papers/2408.12590",
+    "title": "xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations",
+    "date": "2024-08-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "2405.20279",
+    "url": "https://huggingface.co/papers/2405.20279",
+    "title": "CV-VAE: A Compatible Video VAE for Latent Generative Video Models",
+    "date": "2024-05-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2506.01380",
+    "url": "https://huggingface.co/papers/2506.01380",
+    "title": "Playing with Transformer at 30+ FPS via Next-Frame Diffusion",
+    "date": "2025-06-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2609.09123",
+    "url": "https://huggingface.co/papers/2609.09123",
+    "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
+    "date": "2026-09-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "2609.37001",
+    "url": "https://arxiv.org/abs/2609.37001",
+    "title": "Parameterized Stripe Attention for Efficient Video Generation",
+    "date": "2026-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "",
+    "url": "https://skywork.ai/blog/sora-2-vs-veo-3-vs-runway-gen-3-2025-ai-video-generator-comparison/",
+    "title": "Sora 2 vs Veo 3 vs Runway Gen-3: 2025 AI Video Model Comparison Guide",
+    "date": "2025-10-02",
+    "source": "web"
+  },
+  {
+    "n": 27,
+    "id": "2412.20404",
+    "url": "https://huggingface.co/papers/2412.20404",
+    "title": "Open-Sora: Democratizing Efficient Video Production for All",
+    "date": "2024-12-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 28,
+    "id": "2506.21448",
+    "url": "https://huggingface.co/papers/2506.21448",
+    "title": "ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing",
+    "date": "2025-06-26",
+    "source": "hf-search"
+  }
+]

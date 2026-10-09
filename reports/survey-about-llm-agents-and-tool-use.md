@@ -1,0 +1,54 @@
+# A Comprehensive Survey of Large Language Model Agents and Tool Use: Architectures, Execution Frameworks, Planning, and Security
+
+## TL;DR
+- Large Language Model (LLM) agents transition static language models into persistent, goal-directed systems orchestrated through perception, memory, reasoning, and tool execution loops [1][2][3].
+- Tool use empowers agents to interact with external APIs, databases, and sandboxed runtimes, evolving from isolated single-tool calls to long-horizon multi-tool orchestration [4][5][6].
+- Advanced planning and coordination paradigms—such as Chain-of-Thought, ReAct, Tree of Thoughts, Reflexion, and multi-agent collaboration frameworks—significantly enhance problem-solving and error correction [7][8][9][10].
+- Production deployment faces severe challenges, including compounding decision errors, multi-turn prompt injection vulnerabilities, and complex privacy leaks across multi-tool trajectories [11][12][13].
+
+## Background
+The paradigm of artificial intelligence has experienced a profound shift from static, prompt-response language models to interactive, goal-directed autonomous agents [2]. Historically rooted in classical artificial intelligence theories of reactive, deliberative, and Belief-Desire-Intention (BDI) models, contemporary LLM agents integrate foundation models as core cognitive engines capable of perceiving environments, maintaining memory, planning multi-step trajectories, and invoking external tools [2][3]. Foundational surveys categorize these systems around frameworks such as the Brain-Perception-Action (BPA) model and Cognitive Architectures for Language Agents (CoALA), which segment functionality into reasoning/planning brains, environmental perception modules, and action executors [14][15]. As models have scaled, this architectural evolution has been driven by the need to overcome the limitations of static parametric memory, enabling real-time data retrieval, software execution, and dynamic multi-agent collaboration [4][10].
+
+## Architectural Foundations and Core Paradigms
+Contemporary agentic architectures organize intelligence into structured control loops and specialized components. The Structured Cognitive Loop (SCL) architecture separates cognition, memory, control, and action into distinct modules to ensure epistemic accountability, utilizing language models for proposal generation and lightweight external controllers for verification [16]. Memory systems have evolved from simple vector stores into stateful, long-horizon architectures that distribute computational and storage overhead across retrieval layers [17]. Research demonstrates that agents perform significantly better when they actively manage storage and retrieval rather than relying on passive mechanisms, as highlighted by self-managing tool interfaces that improve cross-scenario generality [18]. Furthermore, comprehensive profiling of stateful workloads reveals that managing long-horizon memory is critical for task-oriented agents operating in dynamic environments [17][19].
+
+## Tool Acquisition, API Frameworks, and Execution Environments
+Tool use bridges the gap between parametric language models and dynamic external environments, transitioning from isolated single-tool selection to complex multi-tool orchestration [4]. Synthesizing high-quality training data for tool invocation has advanced through automated agentic pipelines such as ToolACE, which uses self-guided dialogue generation and dual-layer verification across thousands of APIs to align model capabilities [20]. Similarly, parameter-level API graph datasets like In-N-Out structure complex API documentation to improve tool retrieval and inter-API data dependency mapping [21]. To ensure safe execution, systems incorporate sandboxed runtimes such as the Gorilla Execution Engine (GoEx), which provides Docker-based sandboxes, post-facto validation, and damage confinement [5]. Furthermore, benchmarks like Live API-Bench and OpaqueToolsBench evaluate multi-step tool calling and interactive probing of undocumented tools in enterprise and opaque environments [6][22].
+
+## Planning, Reasoning, and Multi-Agent Coordination
+Effective task execution requires sophisticated reasoning and planning paradigms that interleave thought and action. Foundational techniques such as Chain-of-Thought prompting elicit intermediate reasoning steps [23], while ReAct synergizes reasoning traces and task-specific actions to handle exceptions and interact with external APIs [9]. To explore more complex search spaces, Tree of Thoughts (ToT) generalizes prompting to allow deliberate evaluation of multiple reasoning paths and backtracking [7]. To overcome execution errors, Reflexion introduces verbal reinforcement learning where agents reflect on task feedback and store linguistic lessons in episodic memory [8]. Beyond single agents, collaborative frameworks such as MACT and Theory-of-Mind multi-agent systems leverage structured online planning and role specialization to tackle complex tasks like multi-table question answering [24][10], while hybrid frameworks like Latent-DARM combine discrete diffusion models for planning with autoregressive models for execution [25].
+
+## Evaluation, Security, and Production Challenges
+Evaluating LLM agents requires shifting from static accuracy metrics to full-lifecycle trust and robustness assessments. While early benchmarks like AgentBench and WebArena evaluated isolated capabilities [26], comprehensive frameworks like AgentAudit assess execution traces across ten dimensions including grounding, security, and behavior [27]. In production environments, systems encounter unique failure modes such as compounding decision errors, tool failure cascades, and non-deterministic output drift [12]. Security vulnerabilities are particularly pronounced in web and multi-turn environments, where benchmarks like WASP, AgentDyn, and Adaptive Adversaries reveal that frontier models remain highly susceptible to low-effort prompt injections and adversarial context manipulation [28][13][29]. To mitigate these threats, defense-in-depth runtime security layers like OpenClaw PRISM combine heuristic and model-based detection with policy enforcement [30], while specialized benchmarks like ToolPrivacyBench audit purpose-bound information flows across multi-tool trajectories [11].
+
+## References
+[1] OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems. arxiv. https://arxiv.org/abs/2607.28629 (2026-04-16)
+[2] From Prompt-Response to Goal-Directed Systems: The Evolution of Agentic AI Software Architecture. arxiv. https://arxiv.org/abs/2602.10479 (2026-02-11)
+[3] AI Agent Systems: Architectures, Applications, and Evaluation. arxiv. https://arxiv.org/abs/2601.01743 (2026-01-05)
+[4] The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration. web. https://arxiv.org/html/2603.22862v1 (2026-03-22)
+[5] Gorilla: Large Language Model Connected with Massive APIs. web. https://github.com/ShishirPatil/gorilla (2023-05-19)
+[6] Live API-Bench: 2500+ Live APIs for Testing Multi-Step Tool Calling. arxiv. https://arxiv.org/abs/2506.11266 (2025-06-12)
+[7] Tree of Thoughts: Deliberate Problem Solving with Large Language Models. arxiv. https://arxiv.org/abs/2305.10601 (2023-05-17)
+[8] Reflexion: Language Agents with Verbal Reinforcement Learning. arxiv. https://arxiv.org/abs/2303.11366 (2023-03-15)
+[9] ReAct: Synergizing Reasoning and Acting in Language Models. arxiv. https://arxiv.org/abs/2210.03629 (2022-10-06)
+[10] Efficient Multi-Agent Collaboration with Tool Use for Online Planning in Complex Table Question Answering. hf-search. https://huggingface.co/papers/2412.20145 (2024-12-28)
+[11] ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents. arxiv. https://arxiv.org/abs/2606.28061 (2026-06-26)
+[12] Evaluating Agentic AI in the Wild: Failure Modes, Drift Patterns, and a Production Evaluation Framework. arxiv. https://arxiv.org/abs/2605.01604 (2026-05-02)
+[13] Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security. hf-search. https://huggingface.co/papers/2607.18063 (2026-07-20)
+[14] A Survey on Large Language Model-Based Autonomous Agents (Brain-Perception-Action Framework). web. https://nanoagentteam.github.io/assets/Agent_survey.pdf (2025-01-01)
+[15] A Review of Prominent Paradigms for LLM-Based Agents: Tool Use, Planning, and Feedback Learning. web. https://arxiv.org/html/2406.05804 (2024-06-05)
+[16] Structured Cognitive Loop for Behavioral Intelligence in Large Language Model Agents. arxiv. https://arxiv.org/abs/2510.05107 (2025-09-23)
+[17] Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads. hf-search. https://huggingface.co/papers/2606.06448 (2026-06-04)
+[18] Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline. hf-search. https://huggingface.co/papers/2606.04315 (2026-06-03)
+[19] Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents. hf-search. https://huggingface.co/papers/2601.19935 (2026-01-13)
+[20] ToolACE: Winning the Points of LLM Function Calling. hf-search. https://huggingface.co/papers/2409.00920 (2024-09-02)
+[21] In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents. hf-search. https://huggingface.co/papers/2509.01560 (2025-12-30)
+[22] OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction. arxiv. https://arxiv.org/abs/2602.15197 (2026-02-16)
+[23] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. arxiv. https://arxiv.org/abs/2201.11903 (2022-01-28)
+[24] Theory of Mind for Multi-Agent Collaboration via Large Language Models. hf-search. https://huggingface.co/papers/2310.10701 (2023-10-16)
+[25] Latent-DARM: Bridging Discrete Diffusion And Autoregressive Models For Reasoning. hf-search. https://huggingface.co/papers/2603.09184 (2026-03-10)
+[26] Evaluation and Benchmarking of LLM Agents: A Survey. web. https://arxiv.org/html/2507.21504v1 (2025-07-29)
+[27] AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents. arxiv. https://arxiv.org/abs/2609.09875 (2026-09-09)
+[28] WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks. web. https://proceedings.neurips.cc/paper_files/paper/2025/file/1c9818387f5dd0a0bc151214660f059d-Paper-Datasets_and_Benchmarks_Track.pdf (2025-01-01)
+[29] AgentDyn: A Dynamic Open-Ended Benchmark for Evaluating Prompt Injection Attacks of Real-World Agent Security System. hf-search. https://huggingface.co/papers/2602.03117 (2026-02-03)
+[30] OpenClaw PRISM: A Zero-Fork, Defense-in-Depth Runtime Security Layer for Tool-Augmented LLM Agents. hf-search. https://huggingface.co/papers/2603.11853 (2026-03-12)

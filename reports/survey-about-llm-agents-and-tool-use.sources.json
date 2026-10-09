@@ -1,0 +1,242 @@
+[
+  {
+    "n": 1,
+    "id": "2607.28629",
+    "url": "https://arxiv.org/abs/2607.28629",
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "date": "2026-04-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2602.10479",
+    "url": "https://arxiv.org/abs/2602.10479",
+    "title": "From Prompt-Response to Goal-Directed Systems: The Evolution of Agentic AI Software Architecture",
+    "date": "2026-02-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2601.01743",
+    "url": "https://arxiv.org/abs/2601.01743",
+    "title": "AI Agent Systems: Architectures, Applications, and Evaluation",
+    "date": "2026-01-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "",
+    "url": "https://arxiv.org/html/2603.22862v1",
+    "title": "The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration",
+    "date": "2026-03-22",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "",
+    "url": "https://github.com/ShishirPatil/gorilla",
+    "title": "Gorilla: Large Language Model Connected with Massive APIs",
+    "date": "2023-05-19",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2506.11266",
+    "url": "https://arxiv.org/abs/2506.11266",
+    "title": "Live API-Bench: 2500+ Live APIs for Testing Multi-Step Tool Calling",
+    "date": "2025-06-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2305.10601",
+    "url": "https://arxiv.org/abs/2305.10601",
+    "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+    "date": "2023-05-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2303.11366",
+    "url": "https://arxiv.org/abs/2303.11366",
+    "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+    "date": "2023-03-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2412.20145",
+    "url": "https://huggingface.co/papers/2412.20145",
+    "title": "Efficient Multi-Agent Collaboration with Tool Use for Online Planning in Complex Table Question Answering",
+    "date": "2024-12-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2606.28061",
+    "url": "https://arxiv.org/abs/2606.28061",
+    "title": "ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents",
+    "date": "2026-06-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2605.01604",
+    "url": "https://arxiv.org/abs/2605.01604",
+    "title": "Evaluating Agentic AI in the Wild: Failure Modes, Drift Patterns, and a Production Evaluation Framework",
+    "date": "2026-05-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2607.18063",
+    "url": "https://huggingface.co/papers/2607.18063",
+    "title": "Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security",
+    "date": "2026-07-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "",
+    "url": "https://nanoagentteam.github.io/assets/Agent_survey.pdf",
+    "title": "A Survey on Large Language Model-Based Autonomous Agents (Brain-Perception-Action Framework)",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "",
+    "url": "https://arxiv.org/html/2406.05804",
+    "title": "A Review of Prominent Paradigms for LLM-Based Agents: Tool Use, Planning, and Feedback Learning",
+    "date": "2024-06-05",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2510.05107",
+    "url": "https://arxiv.org/abs/2510.05107",
+    "title": "Structured Cognitive Loop for Behavioral Intelligence in Large Language Model Agents",
+    "date": "2025-09-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2606.06448",
+    "url": "https://huggingface.co/papers/2606.06448",
+    "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+    "date": "2026-06-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2606.04315",
+    "url": "https://huggingface.co/papers/2606.04315",
+    "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
+    "date": "2026-06-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2601.19935",
+    "url": "https://huggingface.co/papers/2601.19935",
+    "title": "Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents",
+    "date": "2026-01-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2409.00920",
+    "url": "https://huggingface.co/papers/2409.00920",
+    "title": "ToolACE: Winning the Points of LLM Function Calling",
+    "date": "2024-09-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2509.01560",
+    "url": "https://huggingface.co/papers/2509.01560",
+    "title": "In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents",
+    "date": "2025-12-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "2602.15197",
+    "url": "https://arxiv.org/abs/2602.15197",
+    "title": "OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction",
+    "date": "2026-02-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 23,
+    "id": "2201.11903",
+    "url": "https://arxiv.org/abs/2201.11903",
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "date": "2022-01-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "2310.10701",
+    "url": "https://huggingface.co/papers/2310.10701",
+    "title": "Theory of Mind for Multi-Agent Collaboration via Large Language Models",
+    "date": "2023-10-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "2603.09184",
+    "url": "https://huggingface.co/papers/2603.09184",
+    "title": "Latent-DARM: Bridging Discrete Diffusion And Autoregressive Models For Reasoning",
+    "date": "2026-03-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "",
+    "url": "https://arxiv.org/html/2507.21504v1",
+    "title": "Evaluation and Benchmarking of LLM Agents: A Survey",
+    "date": "2025-07-29",
+    "source": "web"
+  },
+  {
+    "n": 27,
+    "id": "2609.09875",
+    "url": "https://arxiv.org/abs/2609.09875",
+    "title": "AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents",
+    "date": "2026-09-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 28,
+    "id": "",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/1c9818387f5dd0a0bc151214660f059d-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "title": "WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 29,
+    "id": "2602.03117",
+    "url": "https://huggingface.co/papers/2602.03117",
+    "title": "AgentDyn: A Dynamic Open-Ended Benchmark for Evaluating Prompt Injection Attacks of Real-World Agent Security System",
+    "date": "2026-02-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 30,
+    "id": "2603.11853",
+    "url": "https://huggingface.co/papers/2603.11853",
+    "title": "OpenClaw PRISM: A Zero-Fork, Defense-in-Depth Runtime Security Layer for Tool-Augmented LLM Agents",
+    "date": "2026-03-12",
+    "source": "hf-search"
+  }
+]

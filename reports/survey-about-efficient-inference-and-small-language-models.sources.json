@@ -1,0 +1,178 @@
+[
+  {
+    "n": 1,
+    "id": "2503.12167",
+    "url": "https://arxiv.org/abs/2503.12167",
+    "title": "PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing",
+    "date": "2025-03-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2402.14905",
+    "url": "https://huggingface.co/papers/2402.14905",
+    "title": "MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases",
+    "date": "2024-02-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2025-02-26",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2506.22396",
+    "url": "https://arxiv.org/abs/2506.22396",
+    "title": "QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization",
+    "date": "2025-06-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2607.02574",
+    "url": "https://arxiv.org/abs/2607.02574",
+    "title": "From Tensor Buffer to Distributed Memory Hierarchy: A Survey of KV Cache Management for LLM Serving",
+    "date": "2026-06-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2411.13157",
+    "url": "https://arxiv.org/abs/2411.13157",
+    "title": "Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding",
+    "date": "2024-11-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "",
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11651-1",
+    "title": "I/o for LLM inference: a survey of storage and memory bottlenecks",
+    "date": "2026-07-24",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2606.06920",
+    "url": "https://arxiv.org/abs/2606.06920",
+    "title": "The Fine-Tuning Trap: Evaluating Negative Transfer and the Role of PEFT in Sub-1B Mathematical Reasoning",
+    "date": "2026-06-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2604.19342",
+    "url": "https://arxiv.org/abs/2604.19342",
+    "title": "Are Large Language Models Economically Viable for Industry Deployment?",
+    "date": "2026-04-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "",
+    "url": "https://aclanthology.org/2025.ranlp-1.93/",
+    "title": "A Survey on Small Language Models - ACL Anthology",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2610.07093",
+    "url": "https://arxiv.org/abs/2610.07093",
+    "title": "Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2604.24785",
+    "url": "https://arxiv.org/abs/2604.24785",
+    "title": "Cloud to Edge: Benchmarking LLM Inference On Hardware-Accelerated Single-Board Computers",
+    "date": "2024-04-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2511.18890",
+    "url": "https://huggingface.co/papers/2511.18890",
+    "title": "Nemotron-Flash: Towards Latency-Optimal Hybrid Small Language Models",
+    "date": "2025-11-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2610.10854",
+    "url": "https://arxiv.org/abs/2610.10854",
+    "title": "KDFP: A first-principles approach to knowledge distillation in large language models",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2109.08449",
+    "url": "https://arxiv.org/abs/2109.08449",
+    "title": "General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings",
+    "date": "2021-09-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2502.10424",
+    "url": "https://huggingface.co/papers/2502.10424",
+    "title": "QuantSpec: Self-Speculative Decoding with Hierarchical Quantized KV Cache",
+    "date": "2025-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2502.04420",
+    "url": "https://huggingface.co/papers/2502.04420",
+    "title": "KVTuner: Sensitivity-Aware Layer-Wise Mixed-Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference",
+    "date": "2025-02-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2602.09113",
+    "url": "https://arxiv.org/abs/2602.09113",
+    "title": "Benchmarking the Energy Savings with Speculative Decoding Strategies",
+    "date": "2026-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "",
+    "url": "https://arxiv.org/pdf/2402.16363v6.pdf",
+    "title": "LLM Inference Unveiled: Survey and Roofline Model Insights",
+    "date": "2024-02-28",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "2608.00922",
+    "url": "https://arxiv.org/abs/2608.00922",
+    "title": "From Cloud to Crowd: Democratizing LLM Service with Decentralized Edge Collaboration for RAG",
+    "date": "2026-08-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2510.26384",
+    "url": "https://huggingface.co/papers/2510.26384",
+    "title": "Scales++: Compute Efficient Evaluation Subset Selection with Cognitive Scales Embeddings",
+    "date": "2025-10-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "2411.09944",
+    "url": "https://huggingface.co/papers/2411.09944",
+    "title": "SlimLM: An Efficient Small Language Model for On-Device Document Assistance",
+    "date": "2024-11-15",
+    "source": "hf-search"
+  }
+]

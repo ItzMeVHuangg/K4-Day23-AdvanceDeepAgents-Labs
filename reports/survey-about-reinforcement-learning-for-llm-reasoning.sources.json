@@ -1,0 +1,226 @@
+[
+  {
+    "n": 1,
+    "id": "",
+    "url": "https://drl.schwinger.dev/rl-for-llms/",
+    "title": "RL for LLMs - Introduction to Deep Reinforcement Learning",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "",
+    "url": "https://deepwiki.com/chunhuizhang/llm_rl/1.2-llm-as-a-markov-decision-process",
+    "title": "LLM as a Markov Decision Process | chunhuizhang/llm_rl | DeepWiki",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "",
+    "url": "https://www.cell.com/patterns/fulltext/S2666-389925002181",
+    "title": "Toward large reasoning models: A survey of reinforced reasoning",
+    "date": "2025-10-10",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2407.16216",
+    "url": "https://arxiv.org/abs/2407.16216",
+    "title": "Reinforcement Learning for LLM Post-Training: A Survey",
+    "date": "2024-07-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2609.36641",
+    "url": "https://arxiv.org/abs/2609.36641",
+    "title": "Inducing Process Supervision from Outcome-Only Reinforcement Learning",
+    "date": "2026-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "title": "Learning to reason with LLMs",
+    "date": "2024-09-12",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2609.09776",
+    "url": "https://arxiv.org/abs/2609.09776",
+    "title": "Proof-Carrying Cognition: Closing the Verification Gap with Reality-Settled Reward",
+    "date": "2026-09-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "",
+    "url": "https://arxiv.org/html/2410.15115",
+    "title": "On Designing Effective RL Reward at Training Time for LLM Reasoning",
+    "date": "2024-10-15",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "",
+    "url": "https://ar5iv.labs.arxiv.org/html/2603.07084",
+    "title": "Countdown-Code: A Testbed for Studying The Emergence and Generalization of Reward Hacking in RLVR",
+    "date": "2026-03-07",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2507.04136",
+    "url": "https://arxiv.org/abs/2507.04136",
+    "title": "A Technical Survey of Reinforcement Learning Techniques for Large Language Models",
+    "date": "2025-07-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2502.06773",
+    "url": "https://huggingface.co/papers/2502.06773",
+    "title": "On the Emergence of Thinking in LLMs I: Searching for the Right Intuition",
+    "date": "2025-02-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2609.34660",
+    "url": "https://arxiv.org/abs/2609.34660",
+    "title": "Rewarding Novel Deductions: Solver-guided Process Supervision for Logical Reasoning",
+    "date": "2026-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2503.12854",
+    "url": "https://huggingface.co/papers/2503.12854",
+    "title": "Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation",
+    "date": "2025-03-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2512.17008",
+    "url": "https://huggingface.co/papers/2512.17008",
+    "title": "Turn-PPO: Turn-Level Advantage Estimation with PPO for Improved Multi-Turn RL in Agentic LLMs",
+    "date": "2025-12-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2601.18533",
+    "url": "https://arxiv.org/abs/2601.18533",
+    "title": "From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation",
+    "date": "2026-01-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2410.01707",
+    "url": "https://huggingface.co/papers/2410.01707",
+    "title": "Interpretable Contrastive Monte Carlo Tree Search Reasoning",
+    "date": "2024-10-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2406.06592",
+    "url": "https://huggingface.co/papers/2406.06592",
+    "title": "Improve Mathematical Reasoning in Language Models by Automated Process Supervision",
+    "date": "2024-06-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2608.30395",
+    "url": "https://arxiv.org/abs/2608.30395",
+    "title": "When LLM Meets Tree Search: A Systematic View of Inference as Search in Large Language Models",
+    "date": "2026-08-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2406.03816",
+    "url": "https://huggingface.co/papers/2406.03816",
+    "title": "ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search",
+    "date": "2024-06-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2607.27787",
+    "url": "https://arxiv.org/abs/2607.27787",
+    "title": "LoRA Scaffolded Policy Optimization (LSPO): A Sampling-Time Low-Rank Scaffold for Recovering Reinforcement-Learning Gradient on Zero-Reward Cliff Prompts",
+    "date": "2026-07-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2510.15110",
+    "url": "https://huggingface.co/papers/2510.15110",
+    "title": "DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per Token via Reinforcement Learning",
+    "date": "2025-10-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2508.05618",
+    "url": "https://arxiv.org/abs/2508.05618",
+    "title": "Learning to Reason for Factuality",
+    "date": "2025-08-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "2505.21493",
+    "url": "https://arxiv.org/abs/2505.21493",
+    "title": "Reinforcing General Reasoning without Verifiers",
+    "date": "2025-05-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "2505.15801",
+    "url": "https://huggingface.co/papers/2505.15801",
+    "title": "VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models",
+    "date": "2025-05-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "2505.15034",
+    "url": "https://arxiv.org/abs/2505.15034",
+    "title": "RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning",
+    "date": "2025-05-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 27,
+    "id": "2508.05613",
+    "url": "https://huggingface.co/papers/2508.05613",
+    "title": "Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning for Large Language Models",
+    "date": "2025-08-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 28,
+    "id": "",
+    "url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/chu25c/chu25c.pdf",
+    "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+    "date": "2025-07-13",
+    "source": "web"
+  }
+]
